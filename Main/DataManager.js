@@ -3,6 +3,7 @@
 Copyright (c) 2008-2015 by BIMiner Technologies Inc, All rights reserved.
 Description: manage DataShuttle which shuttles between client and server
 Revisions: Initialized 2017-2-22
+-------------------this is a change ----------------------
 =================================================================================================================================================*/
 
 var DataManager = function() {
